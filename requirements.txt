@@ -1,0 +1,43 @@
+# Core ML
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+scikit-learn
+
+# Keypoint Extraction
+opencv-python
+mediapipe-nightly  # Use nightly for latest support & H100 compatibility
+
+# Training Utilities
+tqdm
+matplotlib
+
+# HuggingFace & Translation Models
+transformers
+sentencepiece  # required by many multilingual models like mBART
+tokenizers
+
+# Text-to-Speech
+TTS  # by Coqui.ai (TTS engine)
+edge-tts  # Optional, Microsoft TTS via Edge
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Dataset Handling
+gdown
+kaggle
+wget
+
+# Optional: Frontend
+streamlit
+
+# ONNX Export (for deployment)
+onnx
+onnxruntime-gpu
+
+# Dev tools
+pytest
+python-dotenv

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+checkpoints/
+data/keypoints/
+data/isl_datasets/
+*.npy
+*.mp4
+*.avi
+*.log
+.env
+.idea/
+.vscode/
+
