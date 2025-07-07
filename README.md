@@ -2,6 +2,9 @@
 
 > A real-time deep learning-based system for translating **Indian Sign Language (ISL)** gestures into spoken text using **MediaPipe**, **PyTorch**, and **TTS** engines like Coqui-TTS and pyttsx3. Designed to enhance communication accessibility and bridge the gap between signers and non-signers.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avinash064/ISL-Translator/main/isl_pipeline.png.png" alt="ISL Translation Pipeline" width="600"/>
+</p>
 ---
 
 ## 🚀 Key Features
